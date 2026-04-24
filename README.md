@@ -81,7 +81,7 @@
 ### Contact
 
 - Email: [hzy50000@gmail.com](mailto:hzy50000@gmail.com)
-- Telegram: `@DoctorAndy`
+- Telegram: [@DoctorAndy](https://t.me/DoctorAndy)
 - X：`@AndyKaluosi`
 
 > Building useful AI systems for real-world water conservancy, campus services, and industrial inspection.
