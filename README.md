@@ -21,7 +21,7 @@
 目前是软工本科在读大学牲一枚~项目经历主要有大语言模型应用、垂直领域知识问答、时序预测、校园数字化系统研发。
 
 - 目前聚焦：`LLM + RAG`、`Text2SQL`、`LoRA / SFT`、`Spring Boot` 后端开发、`Vue3` 前端工程
-- 项目经历：水质预测预警模型调优、学院竞赛管理系统、车辆零部件缺陷视觉检测系统、学院毕设管理系统、WaterQA 水利智能问答平台
+- 项目经历：水质预测预警模型调优、低空无人机遥感视觉模型调优、学院竞赛管理系统、车辆零部件缺陷视觉检测系统、学院毕设管理系统、WaterQA 水利智能问答平台
 
 <p align="center">Code, coffee, and a little furry energy.</p>
 
@@ -82,6 +82,5 @@
 
 - Email: [hzy50000@gmail.com](mailto:hzy50000@gmail.com)
 - Telegram: [@DoctorAndy](https://t.me/DoctorAndy)
-- X：`@AndyKaluosi`
 
 > Building useful AI systems for real-world water conservancy, campus services, and industrial inspection.
